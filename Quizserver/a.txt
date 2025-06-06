@@ -1,0 +1,15 @@
+db name : comapany
+table name : employee
+
+select * from employee where name="mallesh";
+select * from employee where name is alike "%mallesh%";
+
+db.employee.find({"name":"mallesh"});
+
+
+const [button1,setbutton2] =useState(false);
+const [button2,setbutton2] =useState(false);
+
+useEffect(()=>{},[button1,button2])
+<button onClick{()=>{setbutton1((e)=>!e)}}> btn1 </button>
+<button onClick{()=>{setbutton2((e)=>!e)}}> btn2 </button>
