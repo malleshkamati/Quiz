@@ -75,6 +75,7 @@ import React, { useRef, useState } from 'react';
 import Ready from 'C:/Users/lenovo/OneDrive/Desktop/React_js/08_quiz/src/assets/ready.png';
 import GiveQuiz from './FormId';
 import axios from 'axios';
+import QuizWithTabGuard from './QuizWithTabGuard'
 
 function Home() {
   const name = useRef();
@@ -109,6 +110,7 @@ function Home() {
 
   return (
     <>
+      
       {show ? (
         <div className=" flex  min-h-screen w-12/12 bg-gray-300">
           {/* <div className="h-[50vh] bg-contain bg-center bg-no-repeat" style={{ backgroundImage: `url(${Ready})` }}> */}
@@ -146,6 +148,7 @@ function Home() {
         // </div>
       ) : (
         <div className='bg-gray-300'>
+          
           <GiveQuiz formId={quizId} name={name_user} />
         </div>
       )}

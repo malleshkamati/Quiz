@@ -2,6 +2,7 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import { useNavigate } from 'react-router-dom';
+import QuizWithTabGuard from './QuizWithTabGuard'
 
 function GiveQuiz({ formId,name }) {
   const [quiz, setQuiz] = useState(null);
@@ -117,6 +118,9 @@ function GiveQuiz({ formId,name }) {
   const currentQuestion = quiz[currentQuestionIndex];
 
   return (
+    <QuizWithTabGuard maxWarnings={3} onAutoSubmit={handleSubmitQuiz}>
+   
+
     <div className="bg-slate-100 shadow-lg rounded-lg p-20 ">
       {!quizSubmitted?<><h1 className='text-3xl font-bold text-center'>{time_title[0].form_title}</h1>
       <h1 className='text-xl text-blue-400 '>
@@ -188,6 +192,7 @@ function GiveQuiz({ formId,name }) {
         </div>
       )}
     </div>
+    </QuizWithTabGuard>
   );
 }
 
