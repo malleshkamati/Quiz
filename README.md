@@ -53,8 +53,7 @@ Follow these instructions to set up the project locally on your machine.
 
 ### Prerequisites
 
-*   [Your-Language-Requirement] (e.g., Node.js v14+ or Python 3.8+)
-*   [Your-Database] (e.g., MySQL Server running on port 3306)
+*   Language requirements: Node.js
 
 ### Installation
 
