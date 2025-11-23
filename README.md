@@ -93,7 +93,14 @@ Follow these instructions to set up the project locally on your machine.
 
 | Create Quiz | Admin Dashboard |
 |:---:|:---:|
-| *Add screenshot here* | *Add screenshot here* |
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f224e721-c370-4804-a1f0-cc6479be7b1b" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5e213ce3-b654-49d0-af43-8c67fcdb30d2" />
+<img width="1916" height="514" alt="image" src="https://github.com/user-attachments/assets/23a3e402-db4f-46c1-adbe-b0dd7161bf71" />
+<img width="947" height="532" alt="image" src="https://github.com/user-attachments/assets/14c00c44-1940-4f82-bdcb-dfa365e9a9b2" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cd5f42d8-80c6-4ac2-90fb-72dec6c7c02f" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5d19ed24-0de9-48e7-b93d-69081409810f" />
+<img width="1255" height="571" alt="image" src="https://github.com/user-attachments/assets/5a458c4d-47fc-4a1c-986a-ed096d3c5449" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cad0c469-0af3-497f-b18f-0e20e4ee16cd" />
 
 </details>
 
@@ -102,7 +109,9 @@ Follow these instructions to set up the project locally on your machine.
 
 | Quiz Interface | Tab Switch Warning |
 |:---:|:---:|
-| *Add screenshot here* | *Add screenshot here* |
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/79ca421c-87ed-4477-bdd5-9aa2eb7fbe7a" />
+<img width="1916" height="514" alt="image" src="https://github.com/user-attachments/assets/d0f4b0f5-e984-47ed-886b-79928bb15cd3" />
+
 
 </details>
 
