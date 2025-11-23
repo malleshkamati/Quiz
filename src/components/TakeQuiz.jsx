@@ -18,6 +18,7 @@ function TakeQuiz() {
     <>
   
     {/* <Navbar/> */}
+      
       <div className="bg-gray-300 flex justify-center  min-h-screen">
         
         <div className='w-8/12 '>

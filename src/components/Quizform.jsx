@@ -2,6 +2,7 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import { useNavigate } from 'react-router-dom';
+import QuizWithTabGuard from './QuizWithTabGuard';
 
 function Quizform({ initialData, isEditMode }) {
   const [questions, setQuestions] = useState([]);
@@ -93,6 +94,7 @@ function Quizform({ initialData, isEditMode }) {
 
   return (
     <>
+    
       <>
       {sub ? 
         <form onSubmit={handleSubmitQuiz} className="bg-slate-100 shadow-lg rounded-lg p-12 m-10 min-h-96">
