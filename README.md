@@ -79,9 +79,7 @@ Follow these instructions to set up the project locally on your machine.
     # Example for Node.js
     npm start
 
-    # Example for Python
-    python manage.py runserver
-    ```
+    
 
 4.  **Access the App**
     Open your browser and navigate to `http://localhost:3000` (or your configured port).
