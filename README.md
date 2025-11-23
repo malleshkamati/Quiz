@@ -41,7 +41,7 @@ Provides a clean and distraction-free environment for candidates.
 ## 🛠️ Tech Stack
 
 
-*   **Frontend:**React.js
+*   **Frontend:**  React.js
 *   **Backend:**  Node.js with expressjs
 *   **Database:**  PostgreSQL
 
@@ -68,9 +68,7 @@ Follow these instructions to set up the project locally on your machine.
     # Example for Node.js
     npm install
 
-    # Example for Python
-    pip install -r requirements.txt
-    ```
+   
 
 
 3.  **Run the Application**
@@ -80,10 +78,7 @@ Follow these instructions to set up the project locally on your machine.
 
     
 
-4.  **Access the App**
-    Open your browser and navigate to `http://localhost:3000` (or your configured port).
 
----
 
 ## 📸 Screenshots
 
